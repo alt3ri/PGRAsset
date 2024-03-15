@@ -1,6 +1,5 @@
 # PGRAsset
 
 CN Release
-Current version: 2.9.0 | 2.9.7
-This repo is for lamiya.moe purpose only, so only necessary files are here. 
+Current version: 2.12.0 | 2.12.2
 Mostly in Product/Image/...
